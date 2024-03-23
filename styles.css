@@ -1,0 +1,20 @@
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #d71111;
+    border: solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.custom-button {
+    background-color: #28a745;
+    color: #110450;
+    border: 5px solid #e4ae0b;
+    border-radius: 8px;
+}
+body{
+    text-align: center;
+}
